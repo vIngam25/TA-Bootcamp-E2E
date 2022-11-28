@@ -30,3 +30,4 @@ Scenario: Internet shop logo button
 
 # Hint
 * For "Close the promo banner if it appears" 2 possible ideas. You can use try-catch. Or the banner disappears if you refresh the page when the banner appears.
+
