@@ -1,3 +1,31 @@
+
+# Prepare hometask
+
+## Clone git repository
+``` 
+git clone git@github.com:vIngam25/TA-Bootcamp-E2E.git
+``` 
+
+## Install yarn
+``` 
+yarn install
+```
+
+## Run tests
+``` 
+yarn test
+```
+
+## Scenario
+
+### - [x] Search bar 
+
+### - [x] Internet shop logo button
+
+### - [ ] Optional tasks
+
+<br><br><br>
+
 # TA-Bootcamp-E2E
 
 Develop E2E automated JS tests for https://www.newegg.com
